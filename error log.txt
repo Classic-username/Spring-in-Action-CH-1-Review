@@ -1,0 +1,4 @@
+whitelabel error when attempting to access
+http://localhost:8080/
+I did not include @Controller annotation in the HomeController.java file
+
