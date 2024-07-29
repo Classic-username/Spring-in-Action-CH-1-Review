@@ -1,0 +1,5 @@
+Downloaded project file from spring initializr
+Copied .gitignore from downloaded project and pasted into existing file
+added HomeController.java
+added home.html
+added error long and update log files
